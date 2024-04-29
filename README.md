@@ -1,3 +1,5 @@
+¡Hola y bienvenido a mi perfil de GitHub!
+
 Soy un apasionado programador con dos años de experiencia, siempre hambriento de nuevos desafíos y oportunidades para aprender y crecer. Desde que escribí mi primer "Hola Mundo", me enamoré del mundo de la programación y desde entonces no he dejado de explorar sus infinitas posibilidades.
 
 Mi enfoque se centra en construir soluciones innovadoras y eficientes, y estoy constantemente buscando formas de mejorar mis habilidades y conocimientos. Me encanta colaborar en proyectos emocionantes y trabajar en equipo para alcanzar metas ambiciosas.
